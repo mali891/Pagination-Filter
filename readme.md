@@ -1,8 +1,8 @@
 Pagination filter project
 =========================
 
-## Project from my Fullstack JavaScript Techdegree
+# Project from my Fullstack JavaScript Techdegree
 
-# Find out more at https://teamtreehouse.com/techdegree/full-stack-javascript
+## Find out more at https://teamtreehouse.com/techdegree/full-stack-javascript
 
-# N.B, The code in /js/main.js is mine. Markup and styles were provided.
+## N.B, The code in /js/main.js is mine. Markup and styles were provided.
